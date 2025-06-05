@@ -138,7 +138,8 @@ This project demonstrates:
 ## 📬 Contact
 
 Created by **Mritunjay Sharma**  
-📧 Email: (mritunjaysharma080505@gmail.com)
+📧 Email:[Mritunjay sharma](mritunjaysharma080505@gmail.com)
+
 🌐 LinkedIn: [add your LinkedIn link]
 
 ---
