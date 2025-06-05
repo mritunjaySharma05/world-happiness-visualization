@@ -140,7 +140,8 @@ This project demonstrates:
 Created by **Mritunjay Sharma**  
 📧 Email:(mritunjaysharma080505@gmail.com)
 
-🌐 LinkedIn: [add your LinkedIn link]
+🌐 [LinkedIn](https://www.linkedin.com/in/mritunjay-sharma05)
+
 
 ---
 
